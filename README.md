@@ -61,3 +61,40 @@ Notes: Detailed explanation and examples
 Week 5: Graph Algorithms
 Presentation: Graph theory and algorithms
 Notes: Graph representation and algorithm explanations
+
+3. Assignments
+
+Week 1: Introduction to Algorithms
+
+Assignment 1: Write an algorithm for a basic problem (e.g., finding the maximum number in an array).
+Assignment 2: Analyze the time complexity of the algorithm provided.
+Week 2: Complexity Analysis
+
+Assignment 1: Analyze the time and space complexity of given algorithms.
+Assignment 2: Compare the complexities of different sorting algorithms.
+Week 3: Sorting Algorithms
+
+Assignment 1: Implement Bubble Sort and analyze its performance.
+Assignment 2: Implement Quick Sort and compare its performance with Bubble Sort.
+Week 4: Searching Algorithms
+
+Assignment 1: Implement Linear Search and Binary Search.
+Assignment 2: Compare their performance on different datasets.
+Week 5: Graph Algorithms
+
+Assignment 1: Implement DFS and BFS on a given graph.
+Assignment 2: Implement Dijkstra's Algorithm for shortest path calculation.
+Assignment 3: Implement Kruskal’s Algorithm for finding the Minimum Spanning Tree.
+
+ # 4. Evaluation Criteria
+Assignments
+
+Correctness: 50%
+Correct implementation of algorithms
+Accurate complexity analysis
+Code Quality: 20%
+Readability and organization
+Appropriate use of data structures
+Efficiency: 20%
+Optimized performance
+Minimization of space and time complexity
