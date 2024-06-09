@@ -1,6 +1,16 @@
 # Introduction-to-Algorithms
-Course: Introduction to Algorithms
-Course Components
+First-Year IT Students
+
+This course is designed specifically for students in their first year of Information Technology (IT) studies.
+No prior knowledge of algorithms is required, making it ideal for beginners who are just starting their journey in the field of computer science and software engineering.
+Purpose of the Course
+Foundational Knowledge
+
+The primary goal of this course is to provide a solid foundation in algorithm concepts and techniques.
+Students will learn fundamental algorithmic principles that are essential for understanding more advanced topics in their future studies.
+
+
+Course Components:
 # 1. Lectures
 Week 1: Introduction to Algorithms
 
